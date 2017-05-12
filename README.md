@@ -1,5 +1,7 @@
 # migrat-mssql
 
+## mssql plugin for migrat
+
 migrat-config.js sample: 
 
 ```
