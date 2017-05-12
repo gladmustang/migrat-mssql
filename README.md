@@ -3,7 +3,7 @@
 migrat-config.js
 
 var mssql = require('migrat-mssql');
-
+```
 module.exports = {
     plugins: [
         mssql({
@@ -23,3 +23,5 @@ module.exports = {
     localState: './mig_version'
 
 };
+
+```
