@@ -1,9 +1,9 @@
 # migrat-mssql
 
-migrat-config.js
+migrat-config.js sample: 
 
-var mssql = require('migrat-mssql');
 ```
+var mssql = require('migrat-mssql');
 module.exports = {
     plugins: [
         mssql({
